@@ -1,0 +1,29 @@
+.titolo{
+    font-size: 60px;
+}
+.sottoTitolo{
+    font-size: 20px;
+    color: rgba(106,70,8,0.671);
+}
+.btn{
+    border-color: black;
+}
+.contenitore h3{
+    color: blue;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+img{
+    width: 100%;
+}
+@media (max-width: 768px) {
+    .titolo{
+        font-size: 40px;
+    }
+    .sottoTitolo{
+        font-size: 15px;
+    }
+    .contenitore h3{
+        font-size: 20px;
+    }
+}
